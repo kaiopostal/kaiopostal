@@ -48,4 +48,4 @@
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-KaioPostal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/kaiopostal/)
 
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/kaiopostal)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/kaiopostal?label=follow&style=social)](https://github.com/kaiopostal)
