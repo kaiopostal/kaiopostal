@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Ténico em informática** no <a href="https://www.sp.senac.br/"> Senac</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvimento WEB, Foco em ERP**
+- 💼 &nbsp; Trabalhando como **Estágiario de desenvolvimento WEB**
 - 🌱 &nbsp; Aprendendo mais sobre **VueJS e Laravel**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
