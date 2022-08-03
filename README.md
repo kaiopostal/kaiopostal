@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://github.com/kaiopostal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiopostal&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
