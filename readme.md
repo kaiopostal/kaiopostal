@@ -11,6 +11,7 @@
 
 - Desenvolvedor Web
 - Ténico em informática pelo SENAC
+- Cursando ADS pelo SENAC
 - Curioso e muito motivado pela busca de novas conhecimentos
 
 <br><br>
